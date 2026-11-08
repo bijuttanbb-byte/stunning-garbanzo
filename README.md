@@ -1,0 +1,2 @@
+# stunning-garbanzo
+The GitHub Copilot app is the only desktop experience for agent-driven development built natively on GitHub. Available for macOS, Windows, and Linux, on any Copilot plan, or bring your own key.
